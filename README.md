@@ -2,6 +2,14 @@
 
 Repositori ini adalah webhook chatbot pemesanan makanan menggunakan Dialogflow.
 
+## Menghubungkan Webhook dengan Dialogflow menggunakan glitch
+1. Fork repository ini.
+2. Login ke glitch.com dan hubungkan akun ke Github.
+3. Pilih `New Project -> Import` from Github.
+4. Pilih repository yang telah kamu Fork
+5. Pilih `Share -> Live` App dan copy URL glitch
+6. Paste URL glitch pada dialogflow, pada menu `Fullfillment -> URL`
+
 ## Menghubungkan Webhook dengan Dialogflow menggunakan localhost
 
 1. Clone repositori ini.
