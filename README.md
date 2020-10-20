@@ -2,7 +2,7 @@
 
 Repositori ini adalah webhook chatbot pemesanan makanan menggunakan Dialogflow.
 
-## Menjalankan di localhost
+## Menghubungkan Webhook dengan Dialogflow menggunakan localhost
 
 1. Clone repositori ini.
 2. Install dependencies `npm install`
